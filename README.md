@@ -1,14 +1,14 @@
-### 👋 Lex Benjamin here!
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=theboybreyy&label=Profile%20views&color=e91e63&style=flat" alt="theboybreyy" /> </p>
+### 👋 Samuel Twumasi here!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=samtuga1&label=Profile%20views&color=e91e63&style=flat" alt="samtuga1" /> </p>
 <h2>🏆My Github Profile Trophy</h2>
-<img width=800 src="https://github-profile-trophy.vercel.app/?username=theboybreyy&column=8&theme=gruvbox&no-frame=false"/>
+<img width=800 src="https://github-profile-trophy.vercel.app/?username=samtuga1&column=8&theme=gruvbox&no-frame=false"/>
 
 
 - 💬 Ask  about solving problems and probing innovative ideas through the TECH space as I find it very exhilirating..
-- 📫 How to reach me: 709bjs@gmail.com or by phone as +233 (0) 209 - 685 - 612 and all socail platfroms as @bibabrey
+- 📫 How to reach me: samueltwumasi1290@gmail.com or by phone as +233 (0) 555 - 093 - 397 and all socail platfroms as @twusami
 - 😄 Pronouns: The Boy 💢🤑
 
-- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/alex-benjamin-essilfie-7b9985230/" target = "_blank">LinkedIn</a>
+- Connect via LinkedIn: <a href = "https://www.linkedin.com/in/samuel-twumasi-a16464212/" target = "_blank">LinkedIn</a>
 <h3 align="left">⚙ My Tech Stack:</h3>
 
 <p align="left">
@@ -29,12 +29,12 @@
 
 
 ## **I've got everything to do with coding and designing 😍**
-![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=theboybreyy&theme=dracula&hide_border=true)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theboybreyy&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=theboybreyy&theme=github_dark)
-[![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=theboybreyy&show_icons=true&theme=github_dark)](https://github.com/theboybreyy)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theboybreyy&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=theboybreyy&theme=dracula)  
+![GitHub Streaks](http://github-readme-streak-stats.herokuapp.com?user=samtuga1&theme=dracula&hide_border=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samtuga1&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samtuga1&theme=github_dark)
+[![Lex Benjamin's stats](https://github-readme-stats.vercel.app/api?username=samtuga1&show_icons=true&theme=github_dark)](https://github.com/samtuga1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samtuga1&layout=compact&langs_count=10&theme=github_dark&hide_border=true&count-private=true)](https://github.com/theboybreyy)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=samtuga1&theme=dracula)  
 
 <!-- éxplore Showcase -->
 
